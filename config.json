@@ -1,0 +1,14 @@
+{
+  "check_mode": "keep_alive",
+  "browser_restart_minutes": 60,
+  "min_interval": 2,
+  "max_interval": 4,
+  "error_timeout_minutes": 15,
+  "sleep_mode": true,
+  "special_times": true,
+  "half_hour_times": true,
+  "error_strategy": "manual",
+  "slot_sms_enabled": true,
+  "error_sms_enabled": true,
+  "sms_server_type": "iran"
+}
